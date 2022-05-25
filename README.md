@@ -4,6 +4,10 @@
 # 개발 환경
 ![image](https://user-images.githubusercontent.com/79977761/170161362-9bc43526-de3f-4423-b54a-cdd1c6bb00e0.png)
 
+# 개발 팀 인원
++ 총 3명
++ 개발 기간 : 3주
+
 # 개발 계획표
 ![캡처](https://user-images.githubusercontent.com/79977761/170136616-c0e6f040-8231-4fd1-9c16-8c7c08481160.PNG)
 
