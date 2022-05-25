@@ -1,3 +1,6 @@
+# 실행 방법
+소스코드를 다운 받은 후, src - main - webapp 폴더에 있는 welcome.jsp를 실행하여 회원가입 및 로그인, 상품 구매를 진행한다.
+
 # 개발 환경
 ![image](https://user-images.githubusercontent.com/79977761/170161362-9bc43526-de3f-4423-b54a-cdd1c6bb00e0.png)
 
